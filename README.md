@@ -6,7 +6,7 @@
 Custom tracks, characters, music and more...
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
-[![Launcher](https://img.shields.io/badge/Launcher-mkwiichannel%2Fnitro-ff8c00.svg)](https://github.com/mkwiichannel/nitro)
+[![Launcher](https://img.shields.io/badge/Launcher-mkwiichannel%2Fnitro-ff8c00.svg)](https://github.com/nitroforge/nitro)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2.svg)](https://discord.gg/AhkHNPG65G)
 
 </div>
