@@ -1730,6 +1730,26 @@
     <file external="/MarioKartNitro_Test/Characters/VariantDriver/lg-6.brres" disc="/Scene/Model/Driver/lg-6.brres" create="true" />
     <file external="/MarioKartNitro_Test/Characters/VariantMap/ca-5.tpl" disc="/Race/Map/ca-5.tpl" create="true" />
     <file external="/MarioKartNitro_Test/Characters/VariantMap/lg-6.tpl" disc="/Race/Map/lg-6.tpl" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/ma_bike-lg-7.szs" disc="/Race/Kart/ma_bike-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/ma_kart-lg-7.szs" disc="/Race/Kart/ma_kart-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mb_bike-lg-7.szs" disc="/Race/Kart/mb_bike-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mb_kart-lg-7.szs" disc="/Race/Kart/mb_kart-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mc_bike-lg-7.szs" disc="/Race/Kart/mc_bike-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mc_kart-lg-7.szs" disc="/Race/Kart/mc_kart-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/md_bike-lg-7.szs" disc="/Race/Kart/md_bike-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/md_kart-lg-7.szs" disc="/Race/Kart/md_kart-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mdf_bike-lg-7.szs" disc="/Race/Kart/mdf_bike-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mdf_bike_blue-lg-7.szs" disc="/Race/Kart/mdf_bike_blue-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mdf_bike_red-lg-7.szs" disc="/Race/Kart/mdf_bike_red-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mdf_kart-lg-7.szs" disc="/Race/Kart/mdf_kart-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mdf_kart_blue-lg-7.szs" disc="/Race/Kart/mdf_kart_blue-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/mdf_kart_red-lg-7.szs" disc="/Race/Kart/mdf_kart_red-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/me_bike-lg-7.szs" disc="/Race/Kart/me_bike-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/RaceKart/me_kart-lg-7.szs" disc="/Race/Kart/me_kart-lg-7.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/VariantAllKart/lg-7-allkart.szs" disc="/Scene/Model/Kart/lg-7-allkart.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/VariantAllKart/lg-7-allkart_BT.szs" disc="/Scene/Model/Kart/lg-7-allkart_BT.szs" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/VariantDriver/lg-7.brres" disc="/Scene/Model/Driver/lg-7.brres" create="true" />
+    <file external="/MarioKartNitro_Test/Characters/VariantMap/lg-7.tpl" disc="/Race/Map/lg-7.tpl" create="true" />
     <file external="/MarioKartNitro_Test/Characters/VariantSound/GRP_VO_CA-5_CAN_NPC.brwsd" disc="/sound/GRP_VO_CA-5_CAN_NPC.brwsd" create="true" />
     <file external="/MarioKartNitro_Test/Characters/VariantSound/GRP_VO_CA-5_CAN_PC.brwsd" disc="/sound/GRP_VO_CA-5_CAN_PC.brwsd" create="true" />
     <file external="/MarioKartNitro_Test/Characters/VariantSound/GRP_VO_CA-5_GOL_BAD.brwsd" disc="/sound/GRP_VO_CA-5_GOL_BAD.brwsd" create="true" />
